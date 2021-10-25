@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Dosiero : an Http file server written in golang](https://github.com/dKibru/dosiero)
 
-- 👨‍💻 All of my projects are available at [https://dkibru.github.com](https://dkibru.github.com)
+- 👨‍💻 All of my projects are available at [https://dkibru.github.io](https://dkibru.github.io)
 
 - 📫 How to reach me **kibdemta@gmail.com**
 
