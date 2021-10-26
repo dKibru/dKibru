@@ -22,7 +22,7 @@
 
 <a href="https://golang.org/" title="Golang"><img src="icons/golang.png" /></a>
 <a href="https://reactjs.org/" title="React"><img src="icons/react.png" /></a>
-<a href="https://reactjs.org/" title="Vue js"><img width="35" height="35" src="https://en.wikipedia.org/wiki/Vue.js#/media/File:Vue.js_Logo_2.svg" /></a>
+<a href="https://reactjs.org/" title="Vue js"><img width="35" height="35" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" /></a>
 <a href="https://www.php.net/" title="PHP"><img src="icons/php.png" /></a>
 <a href="https://www.docker.com/" title="Docker"><img src="icons/docker.png" /></a>
 <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png" /></a>
