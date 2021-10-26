@@ -42,5 +42,5 @@
 **Previously worked with:**
 
 <a href="https://wordpress.org/" title="WordPress"><img src="icons/wordpress.png" /></a>
-<a href="https://wordpress.org/" title="WordPress"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" /></a>
+<a href="https://wordpress.org/" title="WordPress"><img width="35" height="35"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" /></a>
 <a href="https://www.python.org/" title="Python"><img src="icons/python.png" /></a>
