@@ -45,3 +45,8 @@
 <a href="https://wordpress.org/" title="WordPress"><img src="icons/wordpress.png" /></a>
 <a href="https://wordpress.org/" title="WordPress"><img width="35" height="35"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" /></a>
 <a href="https://www.python.org/" title="Python"><img src="icons/python.png" /></a>
+
+
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/yacineMTB/yacineMTB/blob/master/luffy1.gif?raw=true');]{x0000}$}
+```
