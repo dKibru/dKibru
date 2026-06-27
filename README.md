@@ -1,52 +1,36 @@
-<h1 align="center">Hi 👋🏿, I'm Kibru Demeke</h1>
-<h3 align="center">full stack developer</h3>
+# Kibru Demeke
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dkibru&label=Profile%20views&color=0e75b6&style=flat" alt="dkibru" /> </p>
+AI-native full-stack engineer building product-shaped software with AWS, TypeScript, Go, PHP/Laravel, and modern frontend stacks.
 
-- 🔭 I’m currently working on [Dosiero : an Http file server written in golang](https://github.com/dKibru/dosiero)
+I care about the whole path from idea to shipped product: problem framing, fast prototypes, production systems, cloud architecture, and the product details that make software feel useful instead of merely functional.
 
-- 👨‍💻 All of my projects are available at [https://dkibru.github.io](https://dkibru.github.io)
+## What I Build
 
-- 📫 How to reach me **kibdemta@gmail.com**
+- AI products and agentic workflows: retrieval, automation, internal tools, product copilots, and AI-assisted business processes.
+- AWS-backed systems: serverless apps, APIs, queues, storage, deployment pipelines, and pragmatic cloud architecture.
+- Full-stack products: TypeScript, React, Svelte, Node.js, Go, Laravel, PostgreSQL, and Docker.
+- Developer and business tools: small focused systems that remove operational friction.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/kibrudemeke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kibrudemeke" height="30" width="40" /></a>
-</p>
+## Current Direction
 
-<h3 align="left">Languages and Tools:</h3> 
-   
+I am focused on AI-native product engineering: using AI as part of the build process, the product surface, and the operating model. I like products that start from a real workflow, ship quickly, and keep improving through direct use.
 
+Most of my recent work is product/client work, but my public repos show older experiments, utilities, and open-source artifacts.
 
-**Currently working with:**
+## Selected Public Work
 
-<a href="https://golang.org/" title="Golang"><img src="icons/golang.png" /></a>
-<a href="https://reactjs.org/" title="React"><img src="icons/react.png" /></a>
-<a href="https://reactjs.org/" title="Vue js"><img width="35" height="35" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" /></a>
-<a href="https://www.php.net/" title="PHP"><img src="icons/php.png" /></a>
-<a href="https://www.docker.com/" title="Docker"><img src="icons/docker.png" /></a>
-<a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png" /></a>
-<a href="https://www.typescriptlang.org/" title="TypeScript"><img src="icons/typescript.png" /></a>
-<a href="https://www.mysql.com/" title="MySQL"><img src="icons/mysql.png" /></a>
-<a href="https://laravel.com/" title="Laravel"><img src="icons/laravel.png" /></a>
-<a href="https://svelte.org/" title="Svelte"><img width="35" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" /></a>
+- [Dosiero](https://github.com/dKibru/dosiero): local HTTP file server built with Go, Svelte, and Tailwind.
+- [Make It a Quote Bot](https://github.com/dKibru/MakeItAQuoteBot): Telegram bot that turns messages into quote images.
+- [Ethiopian Calendar WordPress Plugin](https://github.com/recite-labs/ethiopian-calendar-wordpress-plugin): WordPress plugin for Ethiopian calendar support.
+- [ICPC Contest Solutions](https://github.com/dKibru/ICPC-Contests-Solution): competitive programming archive from regional contests.
 
+## Stack
 
-**Learning:**
+TypeScript, React, Next.js, Svelte, Node.js, Go, PHP/Laravel, Python, PostgreSQL, MySQL, Redis, Docker, AWS, and AI-assisted development workflows.
 
-<a href="https://svelte.org/" title="Svelte"><img width="35" height="35" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" /></a>
-<a href="https://svelte.org/" title="Svelte"><img width="35" height="35" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" /></a>
-<a href="https://svelte.org/" title="Postgresql"><img width="35" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" /></a>
-<a href="https://svelte.org/" title="Postgresql"><img width="35" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" /></a>
+## Links
 
-
-**Previously worked with:**
-
-<a href="https://wordpress.org/" title="WordPress"><img src="icons/wordpress.png" /></a>
-<a href="https://wordpress.org/" title="WordPress"><img width="35" height="35"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" /></a>
-<a href="https://www.python.org/" title="Python"><img src="icons/python.png" /></a>
-
-
-```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXZ2bW90bGFkMmY3bHBrZ3FydnF1dndvZnppa2Q2eXB1enZ1ZjlmeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/okLCopqw6ElCDnIhuS/giphy.webp');]{x0000}$}
-```
+- Website: [kibru.me](https://kibru.me)
+- Company: [Recite Labs](https://github.com/recite-labs)
+- LinkedIn: [kibrudemeke](https://linkedin.com/in/kibrudemeke)
+- Email: [kibdemta@gmail.com](mailto:kibdemta@gmail.com)
